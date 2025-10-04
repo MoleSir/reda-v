@@ -2,6 +2,9 @@
 name = "reda-v"
 version = "0.1.0"
 edition = "2024"
+description = "Verilog file library"
+repository = "https://github.com/MoleSir/reda-v"
+license = "MIT"
 
 [dependencies]
 nom = "6.0.0"
