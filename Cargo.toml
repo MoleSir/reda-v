@@ -1,11 +1,11 @@
 [package]
 name = "reda-v"
-version = "0.1.0"
-edition = "2024"
+version = "0.1.1"
+edition = { workspace = true }
 description = "Verilog file library"
 repository = "https://github.com/MoleSir/reda-v"
 license = "MIT"
 
 [dependencies]
-nom = "6.0.0"
-thiserror = "2.0.17"
+nom = { workspace = true }
+thiserror = { workspace = true }
